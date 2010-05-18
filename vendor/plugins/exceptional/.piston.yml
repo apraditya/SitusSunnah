@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 0b9f6885df50daeba185dafa02e60c7805d0754f
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/contrast/exceptional.git
