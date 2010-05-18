@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: c549b1a61c9c918c43a54e5a0fc32cd1af9441be
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/ffmike/rubaidhstrano.git
