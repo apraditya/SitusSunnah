@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: da3f0033831e019679d84993b98a3a112e7eccb2
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/commondream/rcov_plugin.git
