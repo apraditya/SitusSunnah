@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 4043f7c08a3136d31181e86edac9376e868b01b9
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/grosser/parallel_specs.git
