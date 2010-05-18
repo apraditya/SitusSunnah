@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 97349bde480ff47c0ca2edf0933ee846a271af4a
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/relevance/cap_gun.git
