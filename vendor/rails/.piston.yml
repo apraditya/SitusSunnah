@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 94878c61a329891eb904ace5b06dbc50831869d8
+  branch: 2-3-stable
+lock: false
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/rails/rails.git
