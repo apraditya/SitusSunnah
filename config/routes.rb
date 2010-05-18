@@ -15,3 +15,7 @@ map.finish_activate '/finish_activate/:id', :controller => 'activations', :actio
   map.resource :health_monitor, :controller => "health_monitor", :only => :show, :member => { :monitor_health => :get } 
   Jammit::Routes.draw(map)
 end
+#== Route Map
+# Generated on 18 May 2010 15:42
+#
+# Could not find Test::Unit 2.0, ignoring
