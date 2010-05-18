@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 44eb89662499f8d24d4b3cf0c71cafb017d19b5a
+  branch: master
+lock: true
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/ffmike/db-populate.git
